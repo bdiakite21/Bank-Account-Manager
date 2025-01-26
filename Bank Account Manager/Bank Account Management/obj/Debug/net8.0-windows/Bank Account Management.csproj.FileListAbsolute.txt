@@ -1,0 +1,16 @@
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\Bank_Account_Management.Form1.resources
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\Bank Account Management.csproj.GenerateResource.cache
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\Bank Account Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\Bank Account Management.AssemblyInfoInputs.cache
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\Bank Account Management.AssemblyInfo.cs
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\Bank Account Management.csproj.CoreCompileInputs.cache
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\bin\Debug\net8.0-windows\Bank Account Management.exe
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\bin\Debug\net8.0-windows\Bank Account Management.deps.json
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\bin\Debug\net8.0-windows\Bank Account Management.runtimeconfig.json
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\bin\Debug\net8.0-windows\Bank Account Management.dll
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\bin\Debug\net8.0-windows\Bank Account Management.pdb
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\Bank Account Management.dll
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\refint\Bank Account Management.dll
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\Bank Account Management.pdb
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\Bank Account Management.genruntimeconfig.cache
+C:\Users\bayid\source\repos\Diakite_B_Exercise-6\Bank Account Management\obj\Debug\net8.0-windows\ref\Bank Account Management.dll
